@@ -1,0 +1,6 @@
+{
+  "version": "1.0.1",
+  "build": 1,
+  "firmwareUrl": "https://github.com/bdpatterson73/SatelliteWeatherUpdates/releases/download/v1.0.1/firmware.bin",
+  "releaseNotes": "Public release"
+}
