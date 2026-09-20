@@ -1,6 +1,6 @@
 {
-  "version": "1.0.19",
-  "build": 19,
-  "firmwareUrl": "https://github.com/bdpatterson73/SatelliteWeatherUpdates/releases/download/v1.0.19/firmware.bin",
+  "version": "1.0.20",
+  "build": 20,
+  "firmwareUrl": "https://github.com/bdpatterson73/SatelliteWeatherUpdates/releases/download/v1.0.20/firmware.bin",
   "releaseNotes": "Public release"
 }
